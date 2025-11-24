@@ -24,8 +24,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter  
 
 **Tabulation:**
-
-
+![WhatsApp Image 2025-11-24 at 7 26 18 PM](https://github.com/user-attachments/assets/c9488986-d47c-44b2-aa50-80f558004117)
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
