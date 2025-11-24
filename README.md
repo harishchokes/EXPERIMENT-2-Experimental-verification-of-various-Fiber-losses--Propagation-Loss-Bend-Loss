@@ -25,7 +25,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 **Tabulation:**
 
-![Uploading WhatsApp Image 2025-11-24 at 7.26.18 PM.jpeg…]()
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
